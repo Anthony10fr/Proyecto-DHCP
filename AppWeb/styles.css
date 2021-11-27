@@ -1,0 +1,31 @@
+.container-lg .card {
+    background: wheat;
+}
+
+
+.btn-ejc:hover{
+    background-color: transparent !important;
+    border-color: #f8f9fa !important;
+    display:block;
+    margin:auto;
+}
+
+.btn-ejc{
+    color: black !important;
+    background: white !important;
+    display:block;
+    margin:auto;
+}
+
+.container-lg .card .textMensaje{
+    display:block;
+    margin:auto; 
+    width: 80%;
+    height: 200px;
+}
+
+.container-lg .card .textMensaje .placeholder{
+    text-align: center;
+    display:block;
+    margin:auto; 
+}
