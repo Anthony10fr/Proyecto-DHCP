@@ -1,7 +1,6 @@
 .container-lg .card {
-    background: wheat;
+    background-color: dodgerblue;
 }
-
 
 .btn-ejc:hover{
     background-color: transparent !important;
@@ -21,7 +20,7 @@
     display:block;
     margin:auto; 
     width: 80%;
-    height: 200px;
+    height: 400px;
 }
 
 .container-lg .card .textMensaje .placeholder{
